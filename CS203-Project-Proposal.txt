@@ -1,0 +1,11 @@
+CS203 Project Proposal
+
+1.Q-M solver
+
+A.   As the name suggests we will be making a web based application that can take input from users 
+and minimise it using Q-M method.
+B.   In addition, we will be also implementing another helping function which will help users to 
+compare two boolean expressions, users are supposed to type two or more boolean expressions then we 
+can say how many of them lead to the same expression.
+C.  We will use html ,css , javascript and some frameworks like react or angular for making web app 
+interactive. We can also use frameworks like Flask web apps framework for the same.
